@@ -4,10 +4,10 @@
     "description": "A simple Tic Tac Toe game",
     "scripts": {
       "build": "echo 'No build step required'",
-      "start": "npx serve -s ."
+      "start": "npx http-server ."
     },
     "dependencies": {
-      "serve": "^14.2.0"
+      "http-server": "^14.1.0"
     }
   }
   
