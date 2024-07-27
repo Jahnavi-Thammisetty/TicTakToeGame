@@ -3,8 +3,8 @@
     "version": "1.0.0",
     "description": "A simple Tic Tac Toe game",
     "scripts": {
-      "build": "echo 'No build step required' ",
-      "start": "serve -s ."
+      "build": "echo 'No build step required'",
+      "start": "npx serve -s ."
     },
     "dependencies": {
       "serve": "^14.2.0"
